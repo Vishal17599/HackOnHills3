@@ -109,6 +109,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginRight="16dp"
                     android:layout_weight="1"
+                    android:id="@+id/himgiri"
                     android:background="#1b1b1b"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
@@ -152,6 +153,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginLeft="16dp"
                     android:layout_weight="1"
+                    android:id="@+id/himadri"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -240,6 +242,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_weight="1"
                     android:clickable="true"
+                    android:id="@+id/satpura"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
                     <TextView
@@ -273,6 +276,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginRight="16dp"
                     android:layout_weight="1"
+                    android:id="@+id/manimahesh"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -316,6 +320,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_weight="1"
                     android:clickable="true"
+                    android:id="@+id/vidyanchal"
                     android:background="#1b1b1b"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -362,6 +367,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginRight="16dp"
                     android:layout_weight="1"
+                    android:id="@+id/shivalik"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -405,6 +411,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_weight="1"
                     android:background="#1b1b1b"
+                    android:id="@+id/ambika"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -440,6 +447,7 @@
                     android:layout_marginRight="16dp"
                     android:layout_weight="1"
                     android:clickable="true"
+                    android:id="@+id/parvati"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
                     <TextView
@@ -482,6 +490,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_weight="1"
                     android:clickable="true"
+                    android:id="@+id/dauladhar"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
                     <TextView
@@ -516,6 +525,7 @@
                     android:layout_marginRight="16dp"
                     android:layout_weight="1"
                     android:clickable="true"
+                    android:id="@+id/neelkanth"
                     android:foreground="?attr/selectableItemBackgroundBorderless">
 
                     <TextView
